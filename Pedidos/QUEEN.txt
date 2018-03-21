@@ -1,0 +1,3 @@
+Cantidad pedida: 3
+Suma de pedidos: 312
+
